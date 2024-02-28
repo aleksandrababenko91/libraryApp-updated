@@ -7,3 +7,9 @@
   background-repeat: no-repeat;
 }
 
+.textContainer {
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  margin: 100px;
+}
