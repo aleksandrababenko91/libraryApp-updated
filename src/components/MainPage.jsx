@@ -21,7 +21,7 @@ const MainPage = () => {
           by simply visiting our website. We have an extensive collection of 
           eBooks and audiobooks available to download or read directly in your browser. 
           Just register on our website, select the books you are interested 
-          in and start immersing yourself in the world of literature!
+          in and start immersing yourself in the world of literature!dfdfdffdfdfdf
         </p>
       </div>
       <div className="overflow-hidden" style={{ maxHeight: '30vh' }}>
