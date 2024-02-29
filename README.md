@@ -1,8 +1,37 @@
-# React + Vite
+# Developer
+ - Aleksandra Babenko
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Project description
+Library project is a project created during Buutti Trainee Academy 2023, Tampere.
+This template provides a minimal setup to get React working in Vite.
+The goal is to learn and showcase the skills necessary for a software developer.
 
-Currently, two official plugins are available:
+# Getting started
+- Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Node.js
+
+npm npm install -g npm
+
+Installation
+Run in library/src
+
+npm -install
+
+Usage: 
+Run in library/src
+
+npm run server
+Open browser, navigate to:
+
+http://localhost:5173
+
+
+# Frontend
+
+- Tools, frameworks and libraries:
+vite (^5.0.8)
+react (^18.2.0)
+axios (^1.6.3)
+react-router-dom (^6.21.1)
+react-bootstrap
