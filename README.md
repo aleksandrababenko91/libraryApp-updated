@@ -36,6 +36,9 @@ Tools, frameworks and libraries:
 - react-router-dom (^6.21.1)
 - react-bootstrap
 
+BOOTSTRAP:
+- Carousel
+
 # Front Page
 
 <img src="src/images/Screenshot 2024-02-29 at 14.21.03.png">
