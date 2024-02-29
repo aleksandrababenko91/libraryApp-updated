@@ -39,7 +39,8 @@ Tools, frameworks and libraries:
 BOOTSTRAP:
 - Carousel
 
-# Front Page
+
+# Front Page. View from the computer
 
 <img src="src/images/Screenshot 2024-02-29 at 14.21.03.png">
 
