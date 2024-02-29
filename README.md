@@ -35,3 +35,5 @@ react (^18.2.0)
 axios (^1.6.3)
 react-router-dom (^6.21.1)
 react-bootstrap
+
+<img src="src/images/Screenshot 2024-02-29 at 14.00.07.png">
