@@ -48,9 +48,9 @@
         },
         {
           "id": 3,
-          "borrower": null,
-          "borrowedDate": "Tue Feb 27 2024",
-          "dueDate": "Fri Apr 12 2024"
+          "borrower": "2",
+          "borrowedDate": "Thu Feb 29 2024",
+          "dueDate": "Mon Mar 25 2024"
         }
       ]
     },
@@ -75,9 +75,9 @@
         },
         {
           "id": 3,
-          "borrower": null,
-          "borrowedDate": "Tue Feb 27 2024",
-          "dueDate": "Sat Mar 23 2024"
+          "borrower": "2",
+          "borrowedDate": "Thu Feb 29 2024",
+          "dueDate": "Mon Mar 25 2024"
         }
       ]
     },

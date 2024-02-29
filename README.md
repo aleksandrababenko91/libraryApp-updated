@@ -29,11 +29,27 @@ http://localhost:5173
 
 # Frontend
 
-- Tools, frameworks and libraries:
-vite (^5.0.8)
-react (^18.2.0)
-axios (^1.6.3)
-react-router-dom (^6.21.1)
-react-bootstrap
+Tools, frameworks and libraries:
+- vite (^5.0.8)
+- react (^18.2.0)
+- axios (^1.6.3)
+- react-router-dom (^6.21.1)
+- react-bootstrap
 
-<img src="src/images/Screenshot 2024-02-29 at 14.00.07.png">
+# Front Page
+
+<img src="src/images/Screenshot 2024-02-29 at 14.21.03.png">
+
+# Register/LOG-IN
+
+<img src="src/images/Screenshot 2024-02-29 at 14.21.52.png">
+<img src="src/images/Screenshot 2024-02-29 at 14.21.29.png">
+
+# BookList
+
+<img src="src/images/Screenshot 2024-02-29 at 14.21.13.png">
+
+# Profile
+
+<img src="src/images/Screenshot 2024-02-29 at 14.29.50.png">
+
